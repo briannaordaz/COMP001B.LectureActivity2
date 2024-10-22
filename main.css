@@ -5,7 +5,11 @@ h1 {
     text-align: center;
 }
 
-.idk {
+p {
     background-color: beige; 
     border: 5px solid rgb(221, 158, 151);
+}
+
+.idk {
+    width: 200px;
 }
