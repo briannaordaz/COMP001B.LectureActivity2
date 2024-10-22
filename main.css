@@ -6,5 +6,6 @@ h1 {
 }
 
 .idk {
-    background-color: beige;
+    background-color: beige; 
+    border: 5px solid rgb(221, 158, 151);
 }
