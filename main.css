@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 h1 {
     background-color: blanchedalmond;
     padding: 20px 30px;
@@ -12,4 +16,10 @@ p {
 
 .idk {
     width: 200px;
+}
+
+.second {
+    width: 200px;
+margin:   0px 810px 800px;
+   
 }
